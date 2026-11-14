@@ -1,0 +1,33 @@
+No.     Time           Source                Destination           Protocol Length Info
+      4 100.577851     fe80::3d21:111d:d5b7:9664 ff02::fb              MDNS     121    Standard query 0x0000 PTR _ipp._tcp.local, "QM" question PTR Lab Printer._ipp._tcp.local
+
+Frame 4: Packet, 121 bytes on wire (968 bits), 121 bytes captured (968 bits) on interface en6, id 0
+Ethernet II, Src: LCFCElectron_de:0b:b0 (90:2e:16:de:0b:b0), Dst: IPv6mcast_fb (33:33:00:00:00:fb)
+    Destination: IPv6mcast_fb (33:33:00:00:00:fb)
+        .... ..1. .... .... .... .... = LG bit: Locally administered address (this is NOT the factory default)
+        .... ...1 .... .... .... .... = IG bit: Group address (multicast/broadcast)
+    Source: LCFCElectron_de:0b:b0 (90:2e:16:de:0b:b0)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv6 (0x86dd)
+    [Stream index: 2]
+Internet Protocol Version 6, Src: fe80::3d21:111d:d5b7:9664, Dst: ff02::fb
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 100.577854     10.77.77.2            224.0.0.251           MDNS     101    Standard query 0x0000 PTR _ipp._tcp.local, "QM" question PTR Lab Printer._ipp._tcp.local
+
+Frame 5: Packet, 101 bytes on wire (808 bits), 101 bytes captured (808 bits) on interface en6, id 0
+Ethernet II, Src: LCFCElectron_de:0b:b0 (90:2e:16:de:0b:b0), Dst: IPv4mcast_fb (01:00:5e:00:00:fb)
+    Destination: IPv4mcast_fb (01:00:5e:00:00:fb)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...1 .... .... .... .... = IG bit: Group address (multicast/broadcast)
+    Source: LCFCElectron_de:0b:b0 (90:2e:16:de:0b:b0)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+    [Stream index: 3]
+Internet Protocol Version 4, Src: 10.77.77.2, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
