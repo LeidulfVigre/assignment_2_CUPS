@@ -1,0 +1,3 @@
+time_utc,severity,category,src_ip,dst_ip,packet_number,details
+2026-11-16T18:08:31.909118+00:00,WARNING,unexpected_printer_port,10.77.77.1,10.77.77.2,1,Advertised port 8001 differs from configured ports [8000]
+2026-11-16T18:08:31.911818+00:00,HIGH,suspicious_ipp_connection,10.77.77.2,10.77.77.1,2,Victim initiated TCP to 10.77.77.1:8001 after suspicious discovery: ipp://10.77.77.1:8001/printers/LabPrinter

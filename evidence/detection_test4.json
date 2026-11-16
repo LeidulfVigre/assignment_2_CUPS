@@ -1,0 +1,11 @@
+[
+  {
+    "time_utc": "2026-11-16T18:44:03.045708+00:00",
+    "severity": "HIGH",
+    "category": "unauthorized_printer_endpoint",
+    "src_ip": "10.77.77.1",
+    "dst_ip": "10.77.77.2",
+    "packet_number": 1,
+    "details": "Advertised endpoint 10.77.77.99 is not on the printer allowlist; URI=ipp://10.77.77.99:8000/printers/LabPrinter"
+  }
+]

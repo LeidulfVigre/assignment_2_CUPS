@@ -1,0 +1,6 @@
+2026-11-16 14:11:17,519 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.1:8001/printers/LabPrinter "evil_laboratory" "my_evil_printer" "evil_factory"\n'
+2026-11-16 14:11:17,520 INFO Saved constructed packet to pcap_files/scapy_discovery_altered_port.pcap (not a network capture)
+2026-11-16 14:11:17,520 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 14:11:17,522 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 14:11:23,537 INFO Saved 1 observed TCP packet(s) to pcap_files/scapy_callback_altered_port.pcap
+2026-11-16 14:11:23,537 INFO CALLBACK OBSERVED: 1 TCP SYN(s) from 10.77.77.2 to printer port 8001

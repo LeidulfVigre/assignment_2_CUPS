@@ -1,0 +1,2 @@
+time_utc,severity,category,src_ip,dst_ip,packet_number,details
+2026-11-16T17:52:54.047618+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,2,Victim initiated TCP to advertised printer 10.77.77.1:8000

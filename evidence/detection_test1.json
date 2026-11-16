@@ -1,0 +1,11 @@
+[
+  {
+    "time_utc": "2026-11-16T17:52:54.047618+00:00",
+    "severity": "INFO",
+    "category": "discovery_callback",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 2,
+    "details": "Victim initiated TCP to advertised printer 10.77.77.1:8000"
+  }
+]

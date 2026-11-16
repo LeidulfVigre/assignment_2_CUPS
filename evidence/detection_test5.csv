@@ -1,0 +1,8 @@
+time_utc,severity,category,src_ip,dst_ip,packet_number,details
+2026-11-16T18:56:48.322027+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,2,Victim initiated TCP to advertised printer 10.77.77.1:8000
+2026-11-16T18:56:49.328834+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,17,Victim initiated TCP to advertised printer 10.77.77.1:8000
+2026-11-16T18:56:50.337187+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,32,Victim initiated TCP to advertised printer 10.77.77.1:8000
+2026-11-16T18:56:51.345325+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,47,Victim initiated TCP to advertised printer 10.77.77.1:8000
+2026-11-16T18:56:52.346723+00:00,WARNING,discovery_burst,10.77.77.1,10.77.77.2,61,5 announcements in 10s from 10.77.77.1
+2026-11-16T18:56:52.349697+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,62,Victim initiated TCP to advertised printer 10.77.77.1:8000
+2026-11-16T18:56:53.357645+00:00,INFO,discovery_callback,10.77.77.2,10.77.77.1,77,Victim initiated TCP to advertised printer 10.77.77.1:8000

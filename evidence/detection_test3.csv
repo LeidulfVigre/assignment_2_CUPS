@@ -1,0 +1,2 @@
+time_utc,severity,category,src_ip,dst_ip,packet_number,details
+2026-11-16T18:25:42.758051+00:00,WARNING,unexpected_discovery_fields,10.77.77.1,10.77.77.2,1,Resource path not in legacy /printers/ or /classes/: '/test_endpoint/test'

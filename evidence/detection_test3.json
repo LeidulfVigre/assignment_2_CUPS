@@ -1,0 +1,11 @@
+[
+  {
+    "time_utc": "2026-11-16T18:25:42.758051+00:00",
+    "severity": "WARNING",
+    "category": "unexpected_discovery_fields",
+    "src_ip": "10.77.77.1",
+    "dst_ip": "10.77.77.2",
+    "packet_number": 1,
+    "details": "Resource path not in legacy /printers/ or /classes/: '/test_endpoint/test'"
+  }
+]

@@ -1,0 +1,18 @@
+2026-11-16 09:13:27,518 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.1:8000/printers/LabPrinter\n'
+2026-11-16 09:13:27,518 INFO Saved constructed packet to pcap_files/scapy_discovery.pcap (not a network capture)
+2026-11-16 09:13:27,518 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 09:13:27,522 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 09:13:33,537 INFO Saved 14 observed TCP packet(s) to pcap_files/scapy_callback.pcap
+2026-11-16 09:13:33,539 INFO CALLBACK OBSERVED: 1 TCP SYN(s) from 10.77.77.2 to printer port 8000
+2026-11-16 09:13:57,604 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.1:8000/printers/LabPrinter\n'
+2026-11-16 09:13:57,605 INFO Saved constructed packet to pcap_files/scapy_discovery.pcap (not a network capture)
+2026-11-16 09:13:57,605 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 09:13:57,607 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 09:14:03,629 INFO Saved 14 observed TCP packet(s) to pcap_files/scapy_callback.pcap
+2026-11-16 09:14:03,629 INFO CALLBACK OBSERVED: 1 TCP SYN(s) from 10.77.77.2 to printer port 8000
+2026-11-16 13:31:30,211 INFO Legacy CUPS announcement: '0 3 ipp://10.77.77.1:8000/printers/LabPrinter "evil_laboratory" "my_evil_printer" "evil_factory"\n'
+2026-11-16 13:31:30,212 INFO Saved constructed packet to pcap_files/scapy_discovery.pcap (not a network capture)
+2026-11-16 13:31:30,212 INFO Monitoring en6 for target TCP connections for 5.0s
+2026-11-16 13:31:30,215 INFO Sending 1 announcement(s) to 10.77.77.2:631/udp
+2026-11-16 13:31:36,235 INFO Saved 14 observed TCP packet(s) to pcap_files/scapy_callback.pcap
+2026-11-16 13:31:36,236 INFO CALLBACK OBSERVED: 1 TCP SYN(s) from 10.77.77.2 to printer port 8000

@@ -1,0 +1,2 @@
+time_utc,severity,category,src_ip,dst_ip,packet_number,details
+2026-11-16T18:44:03.045708+00:00,HIGH,unauthorized_printer_endpoint,10.77.77.1,10.77.77.2,1,Advertised endpoint 10.77.77.99 is not on the printer allowlist; URI=ipp://10.77.77.99:8000/printers/LabPrinter
